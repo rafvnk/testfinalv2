@@ -4,3 +4,4 @@ Link to site: https://web.njit.edu/~rv295/testfinalv2/index.html
 
 Link to Github repo: https://github.com/rafvnk/testfinalv2
 
+PDF of draft before development is the img folder as a pdf.
